@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin Lau, an undergraduate student majoring in artificial intelligence at Northeastern University(China).
 - 👀 I’m interested Multimodal information retrieval, large model alignment, sentiment computing, music information retrieval
 - 🌱 I’m currently learning advanced techniques in natural language processing and deep learning to further my expertise in multimodal information retrieval and large model alignment.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am looking for summer and remote research opportunities
 - 📫 How to reach me Email：kelvin.lau.cn@outlook.com
 
 <!---
