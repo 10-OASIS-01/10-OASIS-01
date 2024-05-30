@@ -27,11 +27,7 @@ Zhipeng Xu\*, Zhenghao Liu\*, **Yibin Liu**, Chenyan Xiong, Yukun Yan, Shuo Wang
 
   
 ## CV
-You can find my CV here: 
-
-[Yibin Liu's Curriculum Vitae (EN)](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/kelvin-lau.pdf).
-
-[Yibin Liu's Curriculum Vitae (CN)](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/yibinliu_cn.pdf).
+You can find my CV here: [(EN)](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/kelvin-lau.pdf) / [(CN)](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/yibinliu_cn.pdf).
 
 <!---
 10-OASIS-01/10-OASIS-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
