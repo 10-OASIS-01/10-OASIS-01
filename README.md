@@ -5,7 +5,7 @@
 - 📖 Personal website: https://10-oasis-01.github.io
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=10-OASIS-01&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" />
+
 
 <!---
 10-OASIS-01/10-OASIS-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
