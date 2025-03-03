@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yibin (Léon) Liu, an undergraduate student majoring in artificial intelligence at Northeastern University (China). 
+- 👋 Hi, I’m Yibin (Leon) Liu, an undergraduate student majoring in artificial intelligence at Northeastern University (China). 
 - 👀 My research interests include Vision Language Grounding, Robot Learning, LLM, HCI, and Information Retrieval.
 - 💼 I’m currently seeking engineering or research internship opportunities.
 - 📫 You can reach me at: yibin.leon.liu@outlook.com
