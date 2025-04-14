@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Yibin (Leon) Liu</h1>
-<h3 align="center">an undergraduate student majoring in artificial intelligence at Northeastern University(China).</h3>
+<h3 align="center">An undergraduate student majoring in artificial intelligence at Northeastern University(China).</h3>
 
 - 👀 My research interests include Vision Language Grounding, Robot Learning, LLM, HCI, and Information Retrieval.
 - 💼 I’m currently seeking engineering or research internship opportunities.
