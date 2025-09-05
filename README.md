@@ -9,6 +9,11 @@
 
 😊 I’m always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
   
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/10-OASIS-01-github-readme)
+
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=10-OASIS-01\&rank_icon=github)
+
+
 
 
 <!---
