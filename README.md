@@ -10,6 +10,11 @@
 😊 I’m always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
   
 
+
+---
+
+*"Live, travel, adventure, bless, and don't be sorry.🌍✨"* — Jack Kerouac
+
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=10-OASIS-01\&rank_icon=github)
 
 
