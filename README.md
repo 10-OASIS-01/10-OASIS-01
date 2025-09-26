@@ -13,7 +13,7 @@
 
 ---
 
-*"Live, travel, adventure, bless, and don't be sorry.🌍✨"* — Jack Kerouac
+***"Live, travel, adventure, bless, and don't be sorry.🌍✨"*** — Jack Kerouac
 
 ![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=10-OASIS-01\&rank_icon=github)
 
