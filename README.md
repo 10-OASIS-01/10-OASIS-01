@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate student majoring in Artificial Intelligence at Northeastern University, China.</h3>
 
 
-- 👀 My research interests include Vision Language Grounding, Robot Learning, LLM, HCI, and Information Retrieval.
+- 👀 My research interests include Language Grounding, Multimodal Reasoning and Planning, LLM, Robotics, and HRI.
 - 💼 **I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!**
 - 📫 You can reach me at: yibin.leon.liu@outlook.com
 - 📖 Visit my [Personal Website](https://10-oasis-01.github.io) for more details.
@@ -24,3 +24,4 @@
 10-OASIS-01/10-OASIS-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
