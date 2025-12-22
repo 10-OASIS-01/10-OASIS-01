@@ -9,8 +9,6 @@
 
 😊 I'm always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
 
-💬 ****
-  
 
 
 ---
