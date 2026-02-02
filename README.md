@@ -4,7 +4,7 @@
 
 - 👀 My research interests include Language Grounding, Multimodal Reasoning and Planning, LLM, Robotics, and HRI.
 - 💼 **I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!**
-- 📫 You can reach me at: yibin.leon.liu@outlook.com, If you feel shy about starting a cold email, feel free to add my WeChat! lau[remove this if you're human]583070838 (Please briefly note your purpose when adding.)
+- 📫 You can reach me at: yibin.leon.liu@outlook.com, If you feel shy about starting a cold email, feel free to add my WeChat! yibinleonliu (Please briefly note your purpose when adding.)
 - 📖 Visit my [Personal Website](https://10-oasis-01.github.io) for more details.
 
 😊 I'm always open to potential collaborations, whether for open-source projects or research. Feel free to reach out if you'd like to have a free chat about anything!
