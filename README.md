@@ -1,10 +1,10 @@
 <h1 align="center">Hi there👋, I'm Yibin (Leon) Liu</h1>
 <h3 align="center">Undergraduate student majoring in Artificial Intelligence at Northeastern University, China.</h3>
-<h3 align="center">Incoming Ph.D Student at the Kahlert School of Computing at the University of Utah.</h3>
+
 
 
 - 👀 My research interests include Language Grounding, Multimodal Reasoning and Planning, LLM, Robotics, and HRI.
-- 💼 **I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!**
+- 💼 **I will be joining the Kahlert School of Computing at the University of Utah as a PhD student in Fall 2026.**
 - 📫 You can reach me at: yibin.leon.liu@outlook.com, If you feel shy about starting a cold email, feel free to add my WeChat! yibinleonliu (Please briefly note your purpose when adding.)
 - 📖 Visit my [Personal Website](https://10-oasis-01.github.io) for more details.
 
