@@ -4,7 +4,7 @@
 
 
 - 👀 My research interests include Language Grounding, Multimodal Reasoning and Planning, LLM, Robotics, and HRI.
-- 💼 **I am currently a Research Intern at Robbyant (part of Ant Group). Please feel free to reach out!**
+- 💼 **I am currently a Research Intern at Joy Future Academy, JD.COM. Please feel free to reach out!**
 - 📫 You can reach me at: yibin.leon.liu@outlook.com, If you feel shy about starting a cold email, feel free to add my WeChat! yibinleonliu (Please briefly note your purpose when adding.)
 - 📖 Visit my [Personal Website](https://10-oasis-01.github.io) for more details.
 
