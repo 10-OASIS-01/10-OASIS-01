@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Yibin (Leon) Liu</h1>
-<h3 align="center">Undergraduate student majoring in Artificial Intelligence at Northeastern University, China.</h3>
+<h3 align="center">Incoming Ph.D. student @ NUS, TGT intern @ JD.COM</h3>
 
 
 
